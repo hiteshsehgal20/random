@@ -6,6 +6,6 @@ public class Tester {
         //ABCABCDABABCDABCDABD length = 20/7
         FibonacciSeries fib = new FibonacciSeries();
         //System.out.println(fib.getFibonacciByRecursion(50));
-        System.out.println(fib.getFibEfficient(50));
+        System.out.println(fib.getFibEfficient(5));
     }
 }
